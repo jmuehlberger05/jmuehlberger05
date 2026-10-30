@@ -12,7 +12,7 @@ I'm studying **Software Engineering** alongside work.
   
 ## Contact
  
-- ✉️ Email: jakob@diemuehlbergers.at.com
+- ✉️ Email: jakob@diemuehlbergers.at
 - 💼 LinkedIn: [Linkedin](https://at.linkedin.com/in/jakob-mühlberger-969547216)
 
 
